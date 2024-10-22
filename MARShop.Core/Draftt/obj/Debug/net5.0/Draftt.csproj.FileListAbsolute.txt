@@ -1,0 +1,16 @@
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\bin\Debug\net5.0\Draftt.exe
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\bin\Debug\net5.0\Draftt.deps.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\bin\Debug\net5.0\Draftt.runtimeconfig.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\bin\Debug\net5.0\Draftt.runtimeconfig.dev.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\bin\Debug\net5.0\Draftt.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\bin\Debug\net5.0\Draftt.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.AssemblyInfoInputs.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.AssemblyInfo.cs
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.csproj.CoreCompileInputs.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.sourcelink.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\refint\Draftt.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\Draftt.genruntimeconfig.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\Draftt\obj\Debug\net5.0\ref\Draftt.dll

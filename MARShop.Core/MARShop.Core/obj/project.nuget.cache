@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMy/egZt280=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.Core\\MARShop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bacht\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bacht\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bacht\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

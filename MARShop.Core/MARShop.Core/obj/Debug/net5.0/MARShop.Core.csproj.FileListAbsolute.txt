@@ -1,0 +1,12 @@
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\bin\Debug\net5.0\MARShop.Core.deps.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\bin\Debug\net5.0\MARShop.Core.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\bin\Debug\net5.0\MARShop.Core.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.AssemblyInfoInputs.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.AssemblyInfo.cs
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.csproj.CoreCompileInputs.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.sourcelink.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\refint\MARShop.Core.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\MARShop.Core.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Core\obj\Debug\net5.0\ref\MARShop.Core.dll

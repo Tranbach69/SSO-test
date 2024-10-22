@@ -1,0 +1,16 @@
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\bin\Debug\net5.0\MARShop.Infastructure.deps.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\bin\Debug\net5.0\MARShop.Infastructure.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\bin\Debug\net5.0\MARShop.Infastructure.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\bin\Debug\net5.0\MARShop.Core.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\bin\Debug\net5.0\MARShop.Core.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.csproj.AssemblyReference.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.AssemblyInfoInputs.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.AssemblyInfo.cs
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.csproj.CoreCompileInputs.cache
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.sourcelink.json
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop..95DB6E14.Up2Date
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\refint\MARShop.Infastructure.dll
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\MARShop.Infastructure.pdb
+D:\Projects\FPTBlog_BE\fptBlog\MARShop.Core\MARShop.Infastructure\obj\Debug\net5.0\ref\MARShop.Infastructure.dll

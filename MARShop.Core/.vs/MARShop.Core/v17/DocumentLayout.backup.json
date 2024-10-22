@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0FF4D4-2BBF-4D10-B3D6-811ACBB2F3B8}|MARShop.API\\MARShop.API.csproj|d:\\projects\\fptblog_be\\fptblog\\marshop.core\\marshop.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0FF4D4-2BBF-4D10-B3D6-811ACBB2F3B8}|MARShop.API\\MARShop.API.csproj|solutionrelative:marshop.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0FF4D4-2BBF-4D10-B3D6-811ACBB2F3B8}|MARShop.API\\MARShop.API.csproj|d:\\projects\\fptblog_be\\fptblog\\marshop.core\\marshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB0FF4D4-2BBF-4D10-B3D6-811ACBB2F3B8}|MARShop.API\\MARShop.API.csproj|solutionrelative:marshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0FF4D4-2BBF-4D10-B3D6-811ACBB2F3B8}|MARShop.API\\MARShop.API.csproj|d:\\projects\\fptblog_be\\fptblog\\marshop.core\\marshop.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0FF4D4-2BBF-4D10-B3D6-811ACBB2F3B8}|MARShop.API\\MARShop.API.csproj|solutionrelative:marshop.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B632EFBD-08EC-42B4-85FE-3E628AEDC107}|MARShop.Application\\MARShop.Application.csproj|d:\\projects\\fptblog_be\\fptblog\\marshop.core\\marshop.application\\handlers\\accounthandler\\queries\\auth\\authquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B632EFBD-08EC-42B4-85FE-3E628AEDC107}|MARShop.Application\\MARShop.Application.csproj|solutionrelative:marshop.application\\handlers\\accounthandler\\queries\\auth\\authquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E32763-9F8A-434B-9D48-FF79E917B1D4}|MARShop.Infastructure\\MARShop.Infastructure.csproj|d:\\projects\\fptblog_be\\fptblog\\marshop.core\\marshop.infastructure\\migrations\\20241018023012_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E32763-9F8A-434B-9D48-FF79E917B1D4}|MARShop.Infastructure\\MARShop.Infastructure.csproj|solutionrelative:marshop.infastructure\\migrations\\20241018023012_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthQuery.cs",
+              "DocumentMoniker": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.Application\\Handlers\\AccountHandler\\Queries\\Auth\\AuthQuery.cs",
+              "RelativeDocumentMoniker": "MARShop.Application\\Handlers\\AccountHandler\\Queries\\Auth\\AuthQuery.cs",
+              "ToolTip": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.Application\\Handlers\\AccountHandler\\Queries\\Auth\\AuthQuery.cs",
+              "RelativeToolTip": "MARShop.Application\\Handlers\\AccountHandler\\Queries\\Auth\\AuthQuery.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:41:47.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MARShop.API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MARShop.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:23:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.API\\Startup.cs",
+              "RelativeDocumentMoniker": "MARShop.API\\Startup.cs",
+              "ToolTip": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.API\\Startup.cs",
+              "RelativeToolTip": "MARShop.API\\Startup.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwD8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:18:19.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241018023012_Dbinit.cs",
+              "DocumentMoniker": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.Infastructure\\Migrations\\20241018023012_Dbinit.cs",
+              "RelativeDocumentMoniker": "MARShop.Infastructure\\Migrations\\20241018023012_Dbinit.cs",
+              "ToolTip": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.Infastructure\\Migrations\\20241018023012_Dbinit.cs",
+              "RelativeToolTip": "MARShop.Infastructure\\Migrations\\20241018023012_Dbinit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T02:30:15.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MARShop.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\FPTBlog_BE\\fptBlog\\MARShop.Core\\MARShop.API\\appsettings.json",
+              "RelativeToolTip": "MARShop.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T14:23:14.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
